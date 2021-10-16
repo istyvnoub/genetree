@@ -1,0 +1,17 @@
+                           Projektstruktur
+
+1-Description du Projet
+       +++++++Arsene+++++++++++++++
+
+
+2-Architecture:
+   +Pas de beson de fachliche Wörter
+   +Bien precis et concis
+   +Dependant de la description
+
+3-Header 
+   +Enumerer les fonctionalites principales et return values
+   +idem entites
+
+4-code
+   +Begin code
